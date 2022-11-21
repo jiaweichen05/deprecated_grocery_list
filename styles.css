@@ -1,0 +1,55 @@
+body
+{
+    text-align: center;
+}
+.thumb
+{
+    width: 12%;
+   
+}
+.arrow
+{
+    width: 8%;
+}
+#input .arrow
+{
+    width: 5%;
+}
+input
+{
+width: 7%;
+}
+#mainimg
+{
+    width: 25%;
+}
+#caption
+{
+    font-size: 24pt;
+    font-weight: bold;
+}
+#shoppingList, #input
+{
+    width: 30%;
+}
+#shoppingList
+{
+    border: 2px solid black;
+    text-align: left;
+}
+#shoppingList h2{
+    text-align: center;
+}
+#banner h1, #banner img 
+{
+    display: inline-block;
+}
+#banner h1{
+    font-size: 50px;
+}
+#img
+{
+    height: 7%;
+    width: 7%;
+    text-align: right;
+}
